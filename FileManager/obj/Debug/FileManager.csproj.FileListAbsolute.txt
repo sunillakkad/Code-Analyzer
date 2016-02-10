@@ -1,0 +1,6 @@
+E:\Project2\FileManager\bin\Debug\FileManager.exe.config
+E:\Project2\FileManager\bin\Debug\FileManager.exe
+E:\Project2\FileManager\bin\Debug\FileManager.pdb
+E:\Project2\FileManager\obj\Debug\FileManager.csprojResolveAssemblyReference.cache
+E:\Project2\FileManager\obj\Debug\FileManager.exe
+E:\Project2\FileManager\obj\Debug\FileManager.pdb

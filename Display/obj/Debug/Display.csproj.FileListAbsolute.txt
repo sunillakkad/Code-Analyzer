@@ -1,0 +1,8 @@
+E:\Project2\Display\bin\Debug\Display.exe.config
+E:\Project2\Display\bin\Debug\Display.exe
+E:\Project2\Display\bin\Debug\Display.pdb
+E:\Project2\Display\bin\Debug\Parser.exe
+E:\Project2\Display\bin\Debug\Parser.pdb
+E:\Project2\Display\obj\Debug\Display.csprojResolveAssemblyReference.cache
+E:\Project2\Display\obj\Debug\Display.exe
+E:\Project2\Display\obj\Debug\Display.pdb

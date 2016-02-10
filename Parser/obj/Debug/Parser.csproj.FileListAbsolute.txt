@@ -1,0 +1,5 @@
+E:\Project2\Parser\bin\Debug\Parser.exe.config
+E:\Project2\Parser\bin\Debug\Parser.exe
+E:\Project2\Parser\bin\Debug\Parser.pdb
+E:\Project2\Parser\obj\Debug\Parser.exe
+E:\Project2\Parser\obj\Debug\Parser.pdb

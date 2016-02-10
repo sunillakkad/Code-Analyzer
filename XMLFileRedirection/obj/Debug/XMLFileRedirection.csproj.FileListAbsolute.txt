@@ -1,0 +1,8 @@
+E:\Project2\XMLFileRedirection\bin\Debug\XMLFileRedirection.exe.config
+E:\Project2\XMLFileRedirection\bin\Debug\XMLFileRedirection.exe
+E:\Project2\XMLFileRedirection\bin\Debug\XMLFileRedirection.pdb
+E:\Project2\XMLFileRedirection\bin\Debug\Parser.exe
+E:\Project2\XMLFileRedirection\bin\Debug\Parser.pdb
+E:\Project2\XMLFileRedirection\obj\Debug\XMLFileRedirection.csprojResolveAssemblyReference.cache
+E:\Project2\XMLFileRedirection\obj\Debug\XMLFileRedirection.exe
+E:\Project2\XMLFileRedirection\obj\Debug\XMLFileRedirection.pdb
